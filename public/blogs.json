@@ -1,0 +1,72 @@
+[
+    {
+        "Id": "1",
+        "cover": "https://i.ibb.co/52fPsxf/Rectangle-1.jpg",
+        "title": "The Adventure Begins",
+        "author": "John Doe",
+        "author_img": "https://example.com/authors/john_doe.jpg",
+        "posted_date": "2024-03-14",
+        "reading_time": 10,
+        "hashtags": [
+            "adventure",
+            "journey",
+            "fiction"
+        ]
+    },
+    {
+        "Id": "2",
+        "cover": "https://i.ibb.co/Fs8WXHx/Rectangle-1-1.jpg",
+        "title": "Secrets of the Deep",
+        "author": "Jane Smith",
+        "author_img": "https://example.com/authors/jane_smith.jpg",
+        "posted_date": "2024-03-13",
+        "reading_time": 15,
+        "hashtags": [
+            "mystery",
+            "ocean",
+            "exploration"
+        ]
+    },
+    {
+        "Id": "3",
+        "cover": "https://i.ibb.co/8jrVh8C/Rectangle-1-2.jpg",
+        "title": "Coding Adventures",
+        "author": "Alex Johnson",
+        "author_img": "https://example.com/authors/alex_johnson.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": 20,
+        "hashtags": [
+            "coding",
+            "programming",
+            "tech"
+        ]
+    },
+    {
+        "Id": "4",
+        "cover": "https://i.ibb.co/8jrVh8C/Rectangle-1-2.jpg",
+        "title": "Cooking Extravaganza",
+        "author": "Emily Brown",
+        "author_img": "https://example.com/authors/emily_brown.jpg",
+        "posted_date": "2024-03-11",
+        "reading_time": 25,
+        "hashtags": [
+            "cooking",
+            "recipes",
+            "food"
+        ]
+    },
+    {
+        "Id": "5",
+        "cover": "https://i.ibb.co/8jrVh8C/Rectangle-1-2.jpg",
+        "title": "Photography Masterclass",
+        "author": "Michael Johnson",
+        "author_img": "https://example.com/authors/michael_johnson.jpg",
+        "posted_date": "2024-03-10",
+        "reading_time": 30,
+        "hashtags": [
+            "photography",
+            "art",
+            "creativity"
+        ]
+    }
+]
