@@ -1,72 +1,55 @@
 [
     {
-        "Id": "1",
-        "cover": "https://i.ibb.co/52fPsxf/Rectangle-1.jpg",
-        "title": "The Adventure Begins",
-        "author": "John Doe",
-        "author_img": "https://example.com/authors/john_doe.jpg",
-        "posted_date": "2024-03-14",
+        "id": 1,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Top 10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
         "reading_time": 10,
         "hashtags": [
-            "adventure",
-            "journey",
-            "fiction"
+            "mid_level",
+            "react"
         ]
     },
     {
-        "Id": "2",
-        "cover": "https://i.ibb.co/Fs8WXHx/Rectangle-1-1.jpg",
-        "title": "Secrets of the Deep",
-        "author": "Jane Smith",
-        "author_img": "https://example.com/authors/jane_smith.jpg",
-        "posted_date": "2024-03-13",
-        "reading_time": 15,
+        "id": 4,
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "Free images and resources collection for website",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
         "hashtags": [
-            "mystery",
-            "ocean",
-            "exploration"
-        ]
-    },
-    {
-        "Id": "3",
-        "cover": "https://i.ibb.co/8jrVh8C/Rectangle-1-2.jpg",
-        "title": "Coding Adventures",
-        "author": "Alex Johnson",
-        "author_img": "https://example.com/authors/alex_johnson.jpg",
-        "posted_date": "2024-03-12",
-        "reading_time": 20,
-        "hashtags": [
-            "coding",
-            "programming",
-            "tech"
-        ]
-    },
-    {
-        "Id": "4",
-        "cover": "https://i.ibb.co/8jrVh8C/Rectangle-1-2.jpg",
-        "title": "Cooking Extravaganza",
-        "author": "Emily Brown",
-        "author_img": "https://example.com/authors/emily_brown.jpg",
-        "posted_date": "2024-03-11",
-        "reading_time": 25,
-        "hashtags": [
-            "cooking",
-            "recipes",
-            "food"
-        ]
-    },
-    {
-        "Id": "5",
-        "cover": "https://i.ibb.co/8jrVh8C/Rectangle-1-2.jpg",
-        "title": "Photography Masterclass",
-        "author": "Michael Johnson",
-        "author_img": "https://example.com/authors/michael_johnson.jpg",
-        "posted_date": "2024-03-10",
-        "reading_time": 30,
-        "hashtags": [
-            "photography",
-            "art",
-            "creativity"
+            "development",
+            "resources"
         ]
     }
 ]
